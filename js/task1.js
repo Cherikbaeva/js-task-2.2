@@ -1,2 +1,2 @@
 let str="ddd@bbb@ccc";
-console.log(str.replace("@","!"));
+console.log(str.replaceAll("@","!"));
